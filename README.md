@@ -1,2 +1,2 @@
 # Javascript-files
-<h1>chai aur code</h1>
+<h3>chai aur code</h3>
